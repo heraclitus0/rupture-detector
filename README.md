@@ -2,7 +2,9 @@ RUPTURE DETECTOR
 ================
 
 Forecast Drift Monitoring & Preventable Loss Detection for Supply Chains
+
 [Live Demo](https://rupture-detector-mubnlicpxjqxpz8ovuo7je.streamlit.app)
+
 This tool detects misalignments between forecasted and actual demand. It identifies rupture points where deviation becomes costly and suggests corrective resets. The system quantifies preventable monetary loss using real-time thresholds and memory-aware state tracking.
 
 ---------------------------------------------------------
